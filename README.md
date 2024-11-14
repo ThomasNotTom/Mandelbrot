@@ -7,3 +7,5 @@ These can be installed on Linux with
 
 Or on macOS
 ```brew install sdl2 sdl2_image```
+
+`CMakeLists.txt` may need alteration to work.
